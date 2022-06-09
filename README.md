@@ -18,7 +18,7 @@
 <hr>
 
 <h1>Explicación del juego</h1>
-<p>En este juego se presentarán preguntas que irán aumentando en dificultad a medida que respondas correctamente, con esto también podrás ganar más puntos, hasta un nivel máximo de 5, en donde podrás sumar la cantidad máxima de puntos posible</p>
+<p>En este juego se presentarán preguntas que irán aumentando en dificultad a medida que respondas correctamente, con esto también podrás ganar más puntos, hasta un nivel máximo de 5 en donde permanecerás si sigues respondiendo correctamente sumando la cantidad máxima de puntos posible</p>
 <p>nivel 1, gana 1 punto</p>
 <p>nivel 2, gana 2 puntos</p>
 <p>nivel 3, gana 4 puntos</p>
