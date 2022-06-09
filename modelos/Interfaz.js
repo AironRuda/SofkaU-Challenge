@@ -12,6 +12,15 @@ export class Interfaz {
         mostrarPuntuacion.innerHTML = puntuacion
     }
     /*
+        Asigna el valor de puntuación maxima, al id "maximos", 
+        que se usará en el documento HTML para presentar la puntuación maxima alcanzada
+        en algun momento de la aprtida
+    */
+    mostrarPuntosMaximos(maximos) {
+        const mostrarPuntosMaximos = document.getElementById('maximos')
+        mostrarPuntosMaximos.innerHTML = maximos
+    }
+    /*
         Asigna el valor de enunciado, al id "pregunta", 
         que se usará en el documento HTML para presentar el enunciado de la pregunta
     */

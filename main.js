@@ -6,6 +6,7 @@ import { Interfaz } from './modelos/Interfaz.js' //Importan objeto que se mostra
 */
 let nivel = 1
 let puntuacion = 0
+let maximos = 0
 /* 
     Con la pregunta seleccionada se extra su información de nivel, puntuación, enunciado y preguntas
     para ser presentados, una vez presentados se esperan estímulos en los botones
@@ -17,6 +18,7 @@ let puntuacion = 0
     relacionado con el valor actual de nivel
 */
 function cargarPagina(preguntaActual, interfaz) {
+    interfaz.mostrarPuntosMaximos(maximos) // Mostrar puntaje maximo
     interfaz.mostrarPuntuacion(puntuacion) //Asignacion de puntuacion a elemento HTML
     interfaz.mostrarNivel(preguntaActual.nivel) //Asignacion de nivel a elemento HTML
     interfaz.mostrarEnunciado(preguntaActual.enunciado) //Asignacion de enunciado a elemento HTML
@@ -39,6 +41,7 @@ function cargarPagina(preguntaActual, interfaz) {
                     puntuacion += 16
                     break
             }
+            if(puntuacion > maximos){maximos = puntuacion}
             nivel += 1 //Incremento de nivel
             if (nivel >= 6) { nivel = 5} //Se establece en 5 el límite máximo que el nivel puede alcanzar
         } else { //En caso de que el estímulo sea en una opción incorrecta

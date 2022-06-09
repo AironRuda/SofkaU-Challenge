@@ -6,16 +6,20 @@ body {
     -webkit-font-smoothing: antialiased;
     -moz-font-smoothing: antialiased;
     -moz-osx-font-smoothing: antialiased;
-    background-color: grey;
+    background-image: radial-gradient(circle at 50% 50%, #c3c4aa 0, #bcc0a6 12.5%, #afb99c 25%, #9cad8e 37.5%, #839d7b 50%, #698d6a 62.5%, #538260 75%, #417b5c 87.5%, #33785d 100%);
 }
 .contenedor {
     width: 80%;
+    height: 100%;
     margin: 20px auto;
     background-color: rgb(223, 245, 220);
     border: 3px solid black;
     display: flex;
     flex-direction: column;
     align-items: center;
+}
+.contenedor h6 {
+    margin: -10px;
 }
 .puntos{
     margin: 5px auto;
@@ -25,6 +29,15 @@ body {
 }
 .puntos h1 {
     margin: 5px auto;
+}
+#maximos {
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.fa-star {
+    color: yellowgreen;
+    margin-left: 10px;
+    font-size: 40px;
 }
 #puntuacion {
     margin-left: 10px;
