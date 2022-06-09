@@ -1,3 +1,9 @@
+/* 
+    En esta clase se crea el banco de preguntas que será presentado
+    Se crean usando el modelo llave:valor, en el que son asignado a cada pregunta; un nivel, un enunciado,
+    una respuesta que corresponde a la correcta, y un arreglo con las opciones de respuesta disponibles.
+    Todo el arreglo es exportado para su posterior uso
+*/
 export const datos = [
     {
         nivel:1,

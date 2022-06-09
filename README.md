@@ -3,7 +3,7 @@
 <h1>Concurso de preguntas y respuestas</h1>
 </hr>
 <h2>Requisitos que se deben cumplir para una correcta ejecución del programa</h2>
-<p>Se recomienda usar el entono de desarrollo Visual Studio Code (VS Code), el link de la página oficial se encuentra a continuación</p>
+<p>Se recomienda usar el entorno de desarrollo Visual Studio Code (VS Code), el link de la página oficial se encuentra a continuación</p>
 <br>
 <a>https://code.visualstudio.com/</a>
 <br>
@@ -19,11 +19,11 @@
 
 <h1>Explicación del juego</h1>
 <p>En este juego se presentarán preguntas que irán aumentando en dificultad a medida que respondas correctamente, con esto también podrás ganar más puntos, hasta un nivel máximo de 5 en donde permanecerás si sigues respondiendo correctamente sumando la cantidad máxima de puntos posible</p>
-p>nivel 1(Operaciones matemáticas), gana 1 punto</p>
-<p>nivel 2(Capitales de departamentos Colombianos), gana 2 puntos</p>
-<p>nivel 3(Palabras bien escritas), gana 4 puntos</p>
-<p>nivel 4(¿Quién?), gana 8 puntos</p>
-<p>nivel 5(Población de países del mundo), gana 16 puntos</p>
+<p>nivel 1 (Operaciones matemáticas), gana 1 punto</p>
+<p>nivel 2 (Capitales de departamentos Colombianos), gana 2 puntos</p>
+<p>nivel 3 (Palabras bien escritas), gana 4 puntos</p>
+<p>nivel 4 (¿Quién?), gana 8 puntos</p>
+<p>nivel 5 (Población de países del mundo), gana 16 puntos</p>
 <p>En caso de responder incorrectamente, perderás todos los puntos y retornaras al nivel 1</p>
 <p>En cualquier momento del juego, puedes presionar el botón "salir" con esto, podrás retornar al nivel 1 sin perder puntos</p>
 
