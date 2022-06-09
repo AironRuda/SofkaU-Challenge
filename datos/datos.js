@@ -61,31 +61,31 @@ export const datos = [
     },
     {
         nivel:3,
-        enunciado:"De las siguientes palabras, ¿Cual está escrita correctamente?",
+        enunciado:"De las siguientes palabras ¿Cual está escrita correctamente?",
         correcto:"Espanglish",
         opciones: ["Espanglish", "Espanglis", "Spanglish", "Espamglish"]
     },
     {
         nivel:3,
-        enunciado:"De las siguientes palabras, ¿Cual está escrita correctamente?",
+        enunciado:"De las siguientes palabras ¿Cual está escrita correctamente?",
         correcto:"Asín",
         opciones: ["Asín", "Asin", "Azín", "Asin"]
     },
     {
         nivel:3,
-        enunciado:"De las siguientes palabras, ¿Cual está escrita correctamente?",
+        enunciado:"De las siguientes palabras ¿Cual está escrita correctamente?",
         correcto:"Arrebol",
         opciones: ["Arrebol", "HArrebol", "Arebol", "Arrevol"]
     },
     {
         nivel:3,
-        enunciado:"De las siguientes palabras, ¿Cual está escrita correctamente?",
+        enunciado:"De las siguientes palabras ¿Cual está escrita correctamente?",
         correcto:"Burdégano",
         opciones: ["Burdégano", "Vurdégano", "Burdigano", "Burdígano"]
     },
     {
         nivel:3,
-        enunciado:"De las siguientes palabras, ¿Cual está escrita correctamente?",
+        enunciado:"De las siguientes palabras ¿Cual está escrita correctamente?",
         correcto:"Gaznápiro",
         opciones: ["Gaznápiro", "Gaznapiró", "Gaznapíro", "Gáznapiro"]
     },
