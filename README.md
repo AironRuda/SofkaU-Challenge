@@ -5,7 +5,7 @@
 </hr>
 <h2>Requisitos que se deben cumplir para una correcta ejecución del programa</h2>
 <p>Se recomienda usar el entorno de desarrollo Visual Studio Code (VS Code), el link de la página oficial se encuentra a continuación</p>
-<a>https://code.visualstudio.com/</a>
+<p><a>https://code.visualstudio.com/</a></p>
 <p>Una vez instalado VS Code, es necesario agregarle la extensión "Live Server", para esto vamos a la barra de extensiones con la que VS Code cuenta</p>
 <img src='./img/extension.png'></img>
 <p>Estando en la sección de extensiones, se debe usar el buscador para encontrar la extensión "Live Server", una vez encontrado, se selecciona la extensión y se instala</p>
